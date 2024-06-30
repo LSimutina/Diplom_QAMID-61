@@ -140,8 +140,8 @@
 
 ### Документация
 
-- [Чек-лист]()
-- [Тест-кейсы]()
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1ezWXRf2zqo_rnf_LbrMOwspMUHf2UUm9ZdzqPlcvV-8/edit?usp=sharing)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1pBPB8H9N2j6_N8Ju1l5E_wBg5X0uXv6gIYPrjok6tTI/edit?usp=sharing)
 - Баг-репорты
 - Отчет о тестировании
 
